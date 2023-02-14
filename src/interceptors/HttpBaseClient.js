@@ -1,6 +1,5 @@
 import axios from "axios";
 import {BASE_URL} from "../constants/AppConstants";
-
 const headers = {
   Accept: "application/json",
   "Content-Type": "application/json",
